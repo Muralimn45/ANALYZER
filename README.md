@@ -41,6 +41,7 @@ Select the desired data filters or parameters (e.g., date range).
 
 Choose the output format (PDF, Excel, CSV).
 
+#OUTPUT:<img width="1914" height="959" alt="Image" src="https://github.com/user-attachments/assets/600026c3-c78f-46a8-ba53-7743792283c2" />
 If a PDF is selected, choose the paper size (A4, A3, etc.).
 
 Click the "Download" button.
