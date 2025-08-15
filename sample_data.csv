@@ -1,0 +1,33 @@
+InvoiceDate,Customer,Product,Quantity,UnitPrice
+2023-01-01,David,Gadget,1.0,99.89
+2023-01-02,Charlie,Gadget,2.0,92.73
+2023-01-03,Charlie,Widget B,8.0,52.88
+2023-01-04,Alice,Widget B,8.0,112.62
+2023-01-05,David,Widget B,9.0,8.4
+2023-01-06,,Gadget,6.0,53.87
+2023-01-07,Alice,Gadget,4.0,81.37
+2023-01-08,Charlie,Widget A,9.0,6.18
+2023-01-09,Bob,Gadget,4.0,56.27
+2023-01-10,Bob,Widget B,2.0,114.84
+2023-01-11,Bob,Widget A,,111.83
+2023-01-12,Alice,Widget A,6.0,14.72
+2023-01-13,David,Gadget,9.0,99.42
+2023-01-14,Alice,Gadget,5.0,8.96
+2023-01-15,Charlie,Widget B,3.0,63.8
+2023-01-16,Charlie,Widget A,4.0,
+2023-01-17,Bob,Widget A,4.0,53.54
+2023-01-18,Alice,Widget B,9.0,26.21
+2023-01-19,Bob,Widget A,4.0,111.01
+2023-01-20,Alice,Widget A,6.0,40.9
+2023-01-21,Bob,Widget B,3.0,13.54
+2023-01-22,David,Widget A,6.0,110.97
+2023-01-23,David,Widget A,2.0,118.4
+2023-01-24,Bob,Widget B,4.0,55.93
+2023-01-25,Charlie,Widget A,2.0,88.35
+2023-01-26,Alice,Widget B,3.0,111.75
+2023-01-27,Bob,Gadget,3.0,44.79
+2023-01-28,Alice,Widget A,1.0,82.82
+2023-01-29,Charlie,Widget B,5.0,78.91
+2023-01-30,Alice,Widget A,6.0,23.08
+2023-01-01,David,Gadget,1.0,99.89
+2023-01-02,Charlie,Gadget,2.0,92.73
